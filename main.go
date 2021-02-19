@@ -5,7 +5,7 @@ import (
 	"github.com/gorilla/mux"
 	"net/http"
 	//"./oneLotteryAPI/Lottery"
-	"./Lottery"
+	"github.com/acmiitulab/EAD_Labs"
 )
 
 func main()  {
