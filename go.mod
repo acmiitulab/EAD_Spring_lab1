@@ -1,4 +1,4 @@
-module oneLotteryAPI
+module github.com/acmiitulab/EAD_Spring_lab1
 
 go 1.15
 
