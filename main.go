@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/gorilla/mux"
 	"net/http"
-	"github.com/acmiitulab/EAD_Spring_lab1"
+	"./Lottery"
 )
 
 func main()  {
